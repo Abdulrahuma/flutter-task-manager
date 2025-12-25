@@ -73,8 +73,7 @@ Chrome (Web)
 ## 📸 Screenshots
 
 ### 📱 Android App
-![Android Screenshot](screenshots/android.png)
+![Android Screenshot](screenshots/android)
 
 ### 🌐 Web App
-![Web Screenshot](screenshots/chrome.png)
-
+![Web Screenshot](screenshots/web)
